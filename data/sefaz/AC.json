@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T09:44:57.216563+00:00",
+    "sha256": "64d79d09d336d117835b1e03c6c8b5925fd18fa542ec6514b45aa7bc78ae301c",
+    "source": {
+      "aliquotas": "https://sefaz.ac.gov.br/aliquotas-icms",
+      "mva_st": "https://sefaz.ac.gov.br/substituicao-tributaria",
+      "protocolos": "https://sefaz.ac.gov.br/protocolos-icms"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://sefaz.ac.gov.br/aliquotas-icms",
+      "mva_st": "https://sefaz.ac.gov.br/substituicao-tributaria",
+      "protocolos": "https://sefaz.ac.gov.br/protocolos-icms"
+    },
+    "uf": "AC",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://sefaz.ac.gov.br/aliquotas-icms",
+        "erro": "falhou GET https://sefaz.ac.gov.br/aliquotas-icms"
+      },
+      "mva_st": {
+        "url": "https://sefaz.ac.gov.br/substituicao-tributaria",
+        "erro": "falhou GET https://sefaz.ac.gov.br/substituicao-tributaria"
+      },
+      "protocolos": {
+        "url": "https://sefaz.ac.gov.br/protocolos-icms",
+        "erro": "falhou GET https://sefaz.ac.gov.br/protocolos-icms"
+      }
+    }
+  }
+}

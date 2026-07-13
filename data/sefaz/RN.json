@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T10:29:18.857232+00:00",
+    "sha256": "9277e1d3d268be0a9098541da3c37d31c48494433213026e31dfa868eca6b035",
+    "source": {
+      "aliquotas": "https://www.set.rn.gov.br/aliquotas",
+      "mva_st": "https://www.set.rn.gov.br/st",
+      "protocolos": "https://www.set.rn.gov.br/protocolos"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://www.set.rn.gov.br/aliquotas",
+      "mva_st": "https://www.set.rn.gov.br/st",
+      "protocolos": "https://www.set.rn.gov.br/protocolos"
+    },
+    "uf": "RN",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://www.set.rn.gov.br/aliquotas",
+        "erro": "falhou GET https://www.set.rn.gov.br/aliquotas"
+      },
+      "mva_st": {
+        "url": "https://www.set.rn.gov.br/st",
+        "erro": "falhou GET https://www.set.rn.gov.br/st"
+      },
+      "protocolos": {
+        "url": "https://www.set.rn.gov.br/protocolos",
+        "erro": "falhou GET https://www.set.rn.gov.br/protocolos"
+      }
+    }
+  }
+}

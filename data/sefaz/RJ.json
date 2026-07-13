@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T10:22:10.513370+00:00",
+    "sha256": "467dea461a2aa22655bb98693433f2b51e4c4caa12b78b08d50f4c8661b69c6a",
+    "source": {
+      "aliquotas": "https://portal.fazenda.rj.gov.br/icms/aliquotas/",
+      "mva_st": "https://portal.fazenda.rj.gov.br/icms/substituicao-tributaria/",
+      "protocolos": "https://portal.fazenda.rj.gov.br/icms/protocolos/"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://portal.fazenda.rj.gov.br/icms/aliquotas/",
+      "mva_st": "https://portal.fazenda.rj.gov.br/icms/substituicao-tributaria/",
+      "protocolos": "https://portal.fazenda.rj.gov.br/icms/protocolos/"
+    },
+    "uf": "RJ",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://portal.fazenda.rj.gov.br/icms/aliquotas/",
+        "erro": "falhou GET https://portal.fazenda.rj.gov.br/icms/aliquotas/"
+      },
+      "mva_st": {
+        "url": "https://portal.fazenda.rj.gov.br/icms/substituicao-tributaria/",
+        "tabelas": [],
+        "links": [
+          {
+            "texto": "Manual de substituição tributária",
+            "href": "https://portal.fazenda.rj.gov.br/icms/wp-content/uploads/sites/42/2023/10/ManualSubstTribut.pdf"
+          },
+          {
+            "texto": "Regimesespeciais ST",
+            "href": "https://portal.fazenda.rj.gov.br/icms/wp-content/uploads/sites/42/2026/05/RE-ST-2026-05-05.pdf"
+          },
+          {
+            "texto": "Institucional",
+            "href": "#institucionalMenu"
+          },
+          {
+            "texto": "Estrutura",
+            "href": "https://portal.fazenda.rj.gov.br/institucional/estrutura/"
+          }
+        ]
+      },
+      "protocolos": {
+        "url": "https://portal.fazenda.rj.gov.br/icms/protocolos/",
+        "erro": "falhou GET https://portal.fazenda.rj.gov.br/icms/protocolos/"
+      }
+    }
+  }
+}

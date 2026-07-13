@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T10:21:48.848618+00:00",
+    "sha256": "e355a10c58fcef8a1206372f464d8f5b30133fcf7f90a971091d3c30e7303d90",
+    "source": {
+      "aliquotas": "https://webas.sefaz.pi.gov.br/aliquotas",
+      "mva_st": "https://webas.sefaz.pi.gov.br/st",
+      "protocolos": "https://webas.sefaz.pi.gov.br/protocolos"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://webas.sefaz.pi.gov.br/aliquotas",
+      "mva_st": "https://webas.sefaz.pi.gov.br/st",
+      "protocolos": "https://webas.sefaz.pi.gov.br/protocolos"
+    },
+    "uf": "PI",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://webas.sefaz.pi.gov.br/aliquotas",
+        "erro": "falhou GET https://webas.sefaz.pi.gov.br/aliquotas"
+      },
+      "mva_st": {
+        "url": "https://webas.sefaz.pi.gov.br/st",
+        "erro": "falhou GET https://webas.sefaz.pi.gov.br/st"
+      },
+      "protocolos": {
+        "url": "https://webas.sefaz.pi.gov.br/protocolos",
+        "erro": "falhou GET https://webas.sefaz.pi.gov.br/protocolos"
+      }
+    }
+  }
+}

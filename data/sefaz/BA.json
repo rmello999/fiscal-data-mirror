@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T09:46:47.769163+00:00",
+    "sha256": "925aadd002c91c18cf6d60937160b6705aa73c803601981797f711cd8f6c884a",
+    "source": {
+      "aliquotas": "https://www.sefaz.ba.gov.br/contribuinte/tributacao/aliquotas.asp",
+      "mva_st": "https://www.sefaz.ba.gov.br/contribuinte/tributacao/st.asp",
+      "protocolos": "https://www.sefaz.ba.gov.br/contribuinte/tributacao/protocolos.asp"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://www.sefaz.ba.gov.br/contribuinte/tributacao/aliquotas.asp",
+      "mva_st": "https://www.sefaz.ba.gov.br/contribuinte/tributacao/st.asp",
+      "protocolos": "https://www.sefaz.ba.gov.br/contribuinte/tributacao/protocolos.asp"
+    },
+    "uf": "BA",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://www.sefaz.ba.gov.br/contribuinte/tributacao/aliquotas.asp",
+        "erro": "falhou GET https://www.sefaz.ba.gov.br/contribuinte/tributacao/aliquotas.asp"
+      },
+      "mva_st": {
+        "url": "https://www.sefaz.ba.gov.br/contribuinte/tributacao/st.asp",
+        "erro": "falhou GET https://www.sefaz.ba.gov.br/contribuinte/tributacao/st.asp"
+      },
+      "protocolos": {
+        "url": "https://www.sefaz.ba.gov.br/contribuinte/tributacao/protocolos.asp",
+        "erro": "falhou GET https://www.sefaz.ba.gov.br/contribuinte/tributacao/protocolos.asp"
+      }
+    }
+  }
+}

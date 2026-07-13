@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T09:47:11.638230+00:00",
+    "sha256": "70c72c0fbe4901ad499aa2c1536406c3369ab345ebcb9c63f4f56efa39e8207c",
+    "source": {
+      "aliquotas": "https://www.sefaz.ce.gov.br/aliquotas-icms",
+      "mva_st": "https://www.sefaz.ce.gov.br/substituicao-tributaria",
+      "protocolos": "https://www.sefaz.ce.gov.br/protocolos-icms"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://www.sefaz.ce.gov.br/aliquotas-icms",
+      "mva_st": "https://www.sefaz.ce.gov.br/substituicao-tributaria",
+      "protocolos": "https://www.sefaz.ce.gov.br/protocolos-icms"
+    },
+    "uf": "CE",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://www.sefaz.ce.gov.br/aliquotas-icms",
+        "erro": "falhou GET https://www.sefaz.ce.gov.br/aliquotas-icms"
+      },
+      "mva_st": {
+        "url": "https://www.sefaz.ce.gov.br/substituicao-tributaria",
+        "erro": "falhou GET https://www.sefaz.ce.gov.br/substituicao-tributaria"
+      },
+      "protocolos": {
+        "url": "https://www.sefaz.ce.gov.br/protocolos-icms",
+        "erro": "falhou GET https://www.sefaz.ce.gov.br/protocolos-icms"
+      }
+    }
+  }
+}

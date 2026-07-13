@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T09:58:41.112320+00:00",
+    "sha256": "135739837b67a13139c2c44dbdfc5ac6f3ff2140cb483f3bf7682ca9f1598b77",
+    "source": {
+      "aliquotas": "https://www.sefaz.mt.gov.br/aliquotas",
+      "mva_st": "https://www.sefaz.mt.gov.br/st",
+      "protocolos": "https://www.sefaz.mt.gov.br/protocolos"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://www.sefaz.mt.gov.br/aliquotas",
+      "mva_st": "https://www.sefaz.mt.gov.br/st",
+      "protocolos": "https://www.sefaz.mt.gov.br/protocolos"
+    },
+    "uf": "MT",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://www.sefaz.mt.gov.br/aliquotas",
+        "erro": "falhou GET https://www.sefaz.mt.gov.br/aliquotas"
+      },
+      "mva_st": {
+        "url": "https://www.sefaz.mt.gov.br/st",
+        "erro": "falhou GET https://www.sefaz.mt.gov.br/st"
+      },
+      "protocolos": {
+        "url": "https://www.sefaz.mt.gov.br/protocolos",
+        "erro": "falhou GET https://www.sefaz.mt.gov.br/protocolos"
+      }
+    }
+  }
+}

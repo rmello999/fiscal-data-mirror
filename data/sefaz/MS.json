@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T09:58:59.429859+00:00",
+    "sha256": "c7085972c0c3fff43f59c95f492e73f98925d473d245ad3be2b9a94783f0191c",
+    "source": {
+      "aliquotas": "https://www.sefaz.ms.gov.br/aliquotas",
+      "mva_st": "https://www.sefaz.ms.gov.br/st",
+      "protocolos": "https://www.sefaz.ms.gov.br/protocolos"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://www.sefaz.ms.gov.br/aliquotas",
+      "mva_st": "https://www.sefaz.ms.gov.br/st",
+      "protocolos": "https://www.sefaz.ms.gov.br/protocolos"
+    },
+    "uf": "MS",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://www.sefaz.ms.gov.br/aliquotas",
+        "erro": "falhou GET https://www.sefaz.ms.gov.br/aliquotas"
+      },
+      "mva_st": {
+        "url": "https://www.sefaz.ms.gov.br/st",
+        "tabelas": [],
+        "links": [
+          {
+            "texto": "Institucional",
+            "href": "#"
+          },
+          {
+            "texto": "Corregedoria-Geral da Administração Tributária",
+            "href": "https://www.sefaz.ms.gov.br/unidade-administrativa/corregedoria-geral-da-administracao-tributaria/"
+          },
+          {
+            "texto": "Tribunal Administrativo Tributário",
+            "href": "https://www.sefaz.ms.gov.br/unidade-administrativa/tribunal-administrativo-tributario/"
+          },
+          {
+            "texto": "Superintendência de Administração",
+            "href": "https://www.sefaz.ms.gov.br/unidade-administrativa/superintendencia-de-administracao/"
+          },
+          {
+            "texto": "Superintendência de Administração Tributária",
+            "href": "https://www.sefaz.ms.gov.br/unidade-administrativa/superintendencia-de-administracao-tributaria/"
+          },
+          {
+            "texto": "Superintendência de Contabilidade Geral do Estado",
+            "href": "https://www.sefaz.ms.gov.br/unidade-administrativa/superintendencia-de-contabilidade-geral-do-estado/"
+          },
+          {
+            "texto": "Superintendência de Logística e Infraestrutura",
+            "href": "https://www.sefaz.ms.gov.br/unidade-administrativa/superintendencia-de-logistica-e-infraestrutura/"
+          },
+          {
+            "texto": "Superintendência de Loteria do Estado de Mato Grosso do Sul",
+            "href": "https://www.sefaz.ms.gov.br/unidade-administrativa/superintendencia-de-loteria-do-estado-de-mato-grosso-do-sul/"
+          },
+          {
+            "texto": "Coordenadoria de Acompanhamento e Prestação de Contas",
+            "href": "https://www.sefaz.ms.gov.br/unidade-administrativa/coordenadoria-de-acompanhamento-e-prestacao-de-contas/"
+          },
+          {
+            "texto": "Coordenadoria de Gestão Fiscal",
+            "href": "https://www.sefaz.ms.gov.br/unidade-administrativa/coordenadoria-de-gestao-fiscal/"
+          },
+          {
+            "texto": "Coordenadoria de Modernização e Gestão Estratégica",
+            "href": "https://www.sefaz.ms.gov.br/unidade-administrativa/coordenadoria-de-modernizacao-e-gestao-estrategica/"
+          },
+          {
+            "texto": "Comitê de Ética da Secretaria de Estado de Fazenda – CESEFAZ",
+            "href": "https://www.sefaz.ms.gov.br/orgaos_colegiados/comite-de-etica-da-secretaria-de-estado-de-fazenda-cesefaz/"
+          },
+          {
+            "texto": "Comitê de Governança da Secretaria de Estado de Fazenda – CGSEFAZ",
+            "href": "https://www.sefaz.ms.gov.br/orgaos_colegiados/comite-de-governanca-da-secretaria-de-estado-de-fazenda-cgsefaz/"
+          },
+          {
+            "texto": "Conselho Superior da Superintendência de Administração Tributária – CONSAT",
+            "href": "https://www.sefaz.ms.gov.br/orgaos_colegiados/conselho-superior-da-superintendencia-de-administracao-tributaria-consat/"
+          },
+          {
+            "texto": "Sistemas",
+            "href": "#"
+          },
+          {
+            "texto": "site do STF",
+            "href": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-norma-que-proibe-grupos-economicos-de-explorar-loterias-em-mais-de-um-estado/#:~:text=STF%20suspende%20norma%20que%20pro%C3%ADbe,servi%C3%A7o%20marcado%20para%2028%2F10"
+          }
+        ]
+      },
+      "protocolos": {
+        "url": "https://www.sefaz.ms.gov.br/protocolos",
+        "erro": "falhou GET https://www.sefaz.ms.gov.br/protocolos"
+      }
+    }
+  }
+}

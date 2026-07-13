@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T09:45:22.832947+00:00",
+    "sha256": "8bc02a1729cb46915f621ddb01b2cd1b6dd526e31b4dc3c6a1bc0096d8c23015",
+    "source": {
+      "aliquotas": "https://www.sefaz.al.gov.br/legislacao/icms",
+      "mva_st": "https://www.sefaz.al.gov.br/substituicao-tributaria",
+      "protocolos": "https://www.sefaz.al.gov.br/protocolos"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://www.sefaz.al.gov.br/legislacao/icms",
+      "mva_st": "https://www.sefaz.al.gov.br/substituicao-tributaria",
+      "protocolos": "https://www.sefaz.al.gov.br/protocolos"
+    },
+    "uf": "AL",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://www.sefaz.al.gov.br/legislacao/icms",
+        "erro": "falhou GET https://www.sefaz.al.gov.br/legislacao/icms"
+      },
+      "mva_st": {
+        "url": "https://www.sefaz.al.gov.br/substituicao-tributaria",
+        "erro": "falhou GET https://www.sefaz.al.gov.br/substituicao-tributaria"
+      },
+      "protocolos": {
+        "url": "https://www.sefaz.al.gov.br/protocolos",
+        "erro": "falhou GET https://www.sefaz.al.gov.br/protocolos"
+      }
+    }
+  }
+}

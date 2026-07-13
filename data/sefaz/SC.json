@@ -1,0 +1,81 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T10:30:47.383604+00:00",
+    "sha256": "78fe25c1cae13ae3d880f4435684e20ad9def51298726010bd90fb7aa6235f4d",
+    "source": {
+      "aliquotas": "https://www.sef.sc.gov.br/servicos/servico/32/Alíquotas_do_ICMS",
+      "mva_st": "https://www.sef.sc.gov.br/servicos/servico/33/Substituição_Tributária",
+      "protocolos": "https://www.sef.sc.gov.br/servicos/servico/34/Protocolos_ICMS"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://www.sef.sc.gov.br/servicos/servico/32/Alíquotas_do_ICMS",
+      "mva_st": "https://www.sef.sc.gov.br/servicos/servico/33/Substituição_Tributária",
+      "protocolos": "https://www.sef.sc.gov.br/servicos/servico/34/Protocolos_ICMS"
+    },
+    "uf": "SC",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://www.sef.sc.gov.br/servicos/servico/32/Alíquotas_do_ICMS",
+        "tabelas": [],
+        "links": [
+          {
+            "texto": "Secretariade Estadoda FazendaSec. da Fazenda",
+            "href": "/"
+          },
+          {
+            "texto": "DIAT - Administração Tributária",
+            "href": "/institucional/orgaos/diat-administracao-tributaria"
+          },
+          {
+            "texto": "DDE - Liberada nova versão do aplicativo Declaração de Débitos de ICMS Especiais com mais funcionalidadesSistema SATn° 5/201521/10/201620.21 KB",
+            "href": "/api/download?id=902&nomeArquivo=_COM05_15___DDE__nova_aplicacao_para_emissao_.pdf&mime=application%2Fpdf"
+          },
+          {
+            "texto": "SAT - Sistema de Administração TributáriaSistema21/07/2016",
+            "href": "/sistemas/sat-sistema-de-administracao-tributaria"
+          },
+          {
+            "texto": "Política de privacidade",
+            "href": "https://estado.sc.gov.br/politica-privacidade"
+          }
+        ]
+      },
+      "mva_st": {
+        "url": "https://www.sef.sc.gov.br/servicos/servico/33/Substituição_Tributária",
+        "tabelas": [],
+        "links": [
+          {
+            "texto": "Secretariade Estadoda FazendaSec. da Fazenda",
+            "href": "/"
+          },
+          {
+            "texto": "DIAT - Administração Tributária",
+            "href": "/institucional/orgaos/diat-administracao-tributaria"
+          },
+          {
+            "texto": "ITCMD - Imposto sobre Transmissões Causa Mortis e DoaçõesPergunta19/08/2016",
+            "href": "http://caf.sef.sc.gov.br/Views/Publico/BaseConhecimento/BuscarBaseConhecimento.aspx?assunto=14"
+          },
+          {
+            "texto": "DARE - Documento de Arrecadação de Receitas EstaduaisPergunta19/08/2016",
+            "href": "http://caf.sef.sc.gov.br/Views/Publico/BaseConhecimento/BuscarBaseConhecimento.aspx?assunto=1"
+          },
+          {
+            "texto": "ITCMD – Imposto sobre Transmissão “Causa Mortis” e Doação de Quaisquer Bens ou DireitosSaiba mais21/07/2016",
+            "href": "/saiba-mais/itcmd-imposto-sobre-transmissao-causa-mortis-e-doacao-de-quaisquer-bens-ou-direitos"
+          },
+          {
+            "texto": "Política de privacidade",
+            "href": "https://estado.sc.gov.br/politica-privacidade"
+          }
+        ]
+      },
+      "protocolos": {
+        "url": "https://www.sef.sc.gov.br/servicos/servico/34/Protocolos_ICMS",
+        "erro": "falhou GET https://www.sef.sc.gov.br/servicos/servico/34/Protocolos_ICMS"
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T10:31:10.835671+00:00",
+    "sha256": "7e5cdc1b0f51ec68d1f9799d7a48a5b8f1be15f7fcaafc283d232c165b90125e",
+    "source": {
+      "aliquotas": "https://portal.fazenda.sp.gov.br/servicos/st/Paginas/Aliquotas.aspx",
+      "mva_st": "https://portal.fazenda.sp.gov.br/servicos/st/Paginas/IVA-ST.aspx",
+      "protocolos": "https://portal.fazenda.sp.gov.br/servicos/st/Paginas/Protocolos.aspx"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://portal.fazenda.sp.gov.br/servicos/st/Paginas/Aliquotas.aspx",
+      "mva_st": "https://portal.fazenda.sp.gov.br/servicos/st/Paginas/IVA-ST.aspx",
+      "protocolos": "https://portal.fazenda.sp.gov.br/servicos/st/Paginas/Protocolos.aspx"
+    },
+    "uf": "SP",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://portal.fazenda.sp.gov.br/servicos/st/Paginas/Aliquotas.aspx",
+        "erro": "falhou GET https://portal.fazenda.sp.gov.br/servicos/st/Paginas/Aliquotas.aspx"
+      },
+      "mva_st": {
+        "url": "https://portal.fazenda.sp.gov.br/servicos/st/Paginas/IVA-ST.aspx",
+        "erro": "falhou GET https://portal.fazenda.sp.gov.br/servicos/st/Paginas/IVA-ST.aspx"
+      },
+      "protocolos": {
+        "url": "https://portal.fazenda.sp.gov.br/servicos/st/Paginas/Protocolos.aspx",
+        "erro": "falhou GET https://portal.fazenda.sp.gov.br/servicos/st/Paginas/Protocolos.aspx"
+      }
+    }
+  }
+}

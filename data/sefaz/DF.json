@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T09:47:42.066743+00:00",
+    "sha256": "e82295731918c184c16cb478c40ab1e5a5d636d847fba9c4e4cf4f24df56fd06",
+    "source": {
+      "aliquotas": "https://www.fazenda.df.gov.br/aliquotas",
+      "mva_st": "https://www.fazenda.df.gov.br/substituicao-tributaria",
+      "protocolos": "https://www.fazenda.df.gov.br/protocolos"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://www.fazenda.df.gov.br/aliquotas",
+      "mva_st": "https://www.fazenda.df.gov.br/substituicao-tributaria",
+      "protocolos": "https://www.fazenda.df.gov.br/protocolos"
+    },
+    "uf": "DF",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://www.fazenda.df.gov.br/aliquotas",
+        "erro": "falhou GET https://www.fazenda.df.gov.br/aliquotas"
+      },
+      "mva_st": {
+        "url": "https://www.fazenda.df.gov.br/substituicao-tributaria",
+        "erro": "falhou GET https://www.fazenda.df.gov.br/substituicao-tributaria"
+      },
+      "protocolos": {
+        "url": "https://www.fazenda.df.gov.br/protocolos",
+        "erro": "falhou GET https://www.fazenda.df.gov.br/protocolos"
+      }
+    }
+  }
+}

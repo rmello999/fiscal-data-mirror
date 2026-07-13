@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T10:13:47.302187+00:00",
+    "sha256": "cd6c2a8857d78ef05cf0c0609a26a6f8d789715e60be9e717b4faf4e05878348",
+    "source": {
+      "aliquotas": "https://www.sefaz.pb.gov.br/aliquotas",
+      "mva_st": "https://www.sefaz.pb.gov.br/st",
+      "protocolos": "https://www.sefaz.pb.gov.br/protocolos"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://www.sefaz.pb.gov.br/aliquotas",
+      "mva_st": "https://www.sefaz.pb.gov.br/st",
+      "protocolos": "https://www.sefaz.pb.gov.br/protocolos"
+    },
+    "uf": "PB",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://www.sefaz.pb.gov.br/aliquotas",
+        "erro": "falhou GET https://www.sefaz.pb.gov.br/aliquotas"
+      },
+      "mva_st": {
+        "url": "https://www.sefaz.pb.gov.br/st",
+        "erro": "falhou GET https://www.sefaz.pb.gov.br/st"
+      },
+      "protocolos": {
+        "url": "https://www.sefaz.pb.gov.br/protocolos",
+        "erro": "falhou GET https://www.sefaz.pb.gov.br/protocolos"
+      }
+    }
+  }
+}

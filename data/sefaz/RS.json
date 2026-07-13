@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T10:29:47.678763+00:00",
+    "sha256": "a4aeee02a6cdec18c0b800771ddfba521e34cdd34634fdfb1417e9d1192447ed",
+    "source": {
+      "aliquotas": "https://receita.fazenda.rs.gov.br/aliquotas-icms",
+      "mva_st": "https://receita.fazenda.rs.gov.br/substituicao-tributaria",
+      "protocolos": "https://receita.fazenda.rs.gov.br/protocolos-icms"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://receita.fazenda.rs.gov.br/aliquotas-icms",
+      "mva_st": "https://receita.fazenda.rs.gov.br/substituicao-tributaria",
+      "protocolos": "https://receita.fazenda.rs.gov.br/protocolos-icms"
+    },
+    "uf": "RS",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://receita.fazenda.rs.gov.br/aliquotas-icms",
+        "erro": "falhou GET https://receita.fazenda.rs.gov.br/aliquotas-icms"
+      },
+      "mva_st": {
+        "url": "https://receita.fazenda.rs.gov.br/substituicao-tributaria",
+        "erro": "falhou GET https://receita.fazenda.rs.gov.br/substituicao-tributaria"
+      },
+      "protocolos": {
+        "url": "https://receita.fazenda.rs.gov.br/protocolos-icms",
+        "erro": "falhou GET https://receita.fazenda.rs.gov.br/protocolos-icms"
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T10:30:13.570554+00:00",
+    "sha256": "7b8451522ac0de1d9e62e8db08ac2351214f1407dadb5fb0a4afa01c975e224d",
+    "source": {
+      "aliquotas": "https://portal.sefin.ro.gov.br/aliquotas",
+      "mva_st": "https://portal.sefin.ro.gov.br/st",
+      "protocolos": "https://portal.sefin.ro.gov.br/protocolos"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://portal.sefin.ro.gov.br/aliquotas",
+      "mva_st": "https://portal.sefin.ro.gov.br/st",
+      "protocolos": "https://portal.sefin.ro.gov.br/protocolos"
+    },
+    "uf": "RO",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://portal.sefin.ro.gov.br/aliquotas",
+        "erro": "falhou GET https://portal.sefin.ro.gov.br/aliquotas"
+      },
+      "mva_st": {
+        "url": "https://portal.sefin.ro.gov.br/st",
+        "erro": "falhou GET https://portal.sefin.ro.gov.br/st"
+      },
+      "protocolos": {
+        "url": "https://portal.sefin.ro.gov.br/protocolos",
+        "erro": "falhou GET https://portal.sefin.ro.gov.br/protocolos"
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T10:14:16.131266+00:00",
+    "sha256": "0bec50844b338ad47aae7e61f10e6d15599ec85029c59cf9439c1403f06afe84",
+    "source": {
+      "aliquotas": "https://www.fazenda.pr.gov.br/Pagina/Aliquotas-do-ICMS",
+      "mva_st": "https://www.fazenda.pr.gov.br/Pagina/Substituicao-Tributaria",
+      "protocolos": "https://www.fazenda.pr.gov.br/Pagina/Protocolos-ICMS"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://www.fazenda.pr.gov.br/Pagina/Aliquotas-do-ICMS",
+      "mva_st": "https://www.fazenda.pr.gov.br/Pagina/Substituicao-Tributaria",
+      "protocolos": "https://www.fazenda.pr.gov.br/Pagina/Protocolos-ICMS"
+    },
+    "uf": "PR",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://www.fazenda.pr.gov.br/Pagina/Aliquotas-do-ICMS",
+        "erro": "falhou GET https://www.fazenda.pr.gov.br/Pagina/Aliquotas-do-ICMS"
+      },
+      "mva_st": {
+        "url": "https://www.fazenda.pr.gov.br/Pagina/Substituicao-Tributaria",
+        "erro": "falhou GET https://www.fazenda.pr.gov.br/Pagina/Substituicao-Tributaria"
+      },
+      "protocolos": {
+        "url": "https://www.fazenda.pr.gov.br/Pagina/Protocolos-ICMS",
+        "erro": "falhou GET https://www.fazenda.pr.gov.br/Pagina/Protocolos-ICMS"
+      }
+    }
+  }
+}

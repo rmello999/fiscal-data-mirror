@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T10:06:34.847884+00:00",
+    "sha256": "ffb990b9a83bb81aa96716ca15d15029a170bf3235b01d24e179d29473c7539e",
+    "source": {
+      "aliquotas": "https://www.sefa.pa.gov.br/aliquotas",
+      "mva_st": "https://www.sefa.pa.gov.br/st",
+      "protocolos": "https://www.sefa.pa.gov.br/protocolos"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://www.sefa.pa.gov.br/aliquotas",
+      "mva_st": "https://www.sefa.pa.gov.br/st",
+      "protocolos": "https://www.sefa.pa.gov.br/protocolos"
+    },
+    "uf": "PA",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://www.sefa.pa.gov.br/aliquotas",
+        "erro": "falhou GET https://www.sefa.pa.gov.br/aliquotas"
+      },
+      "mva_st": {
+        "url": "https://www.sefa.pa.gov.br/st",
+        "erro": "falhou GET https://www.sefa.pa.gov.br/st"
+      },
+      "protocolos": {
+        "url": "https://www.sefa.pa.gov.br/protocolos",
+        "erro": "falhou GET https://www.sefa.pa.gov.br/protocolos"
+      }
+    }
+  }
+}

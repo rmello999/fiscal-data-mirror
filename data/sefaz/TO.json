@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T10:45:27.840593+00:00",
+    "sha256": "c26fc6ad8ba076f48a67d8ba2ae9aa9bdae23ade00f00e68d6566b5f24be3177",
+    "source": {
+      "aliquotas": "https://www.sefaz.to.gov.br/aliquotas",
+      "mva_st": "https://www.sefaz.to.gov.br/st",
+      "protocolos": "https://www.sefaz.to.gov.br/protocolos"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://www.sefaz.to.gov.br/aliquotas",
+      "mva_st": "https://www.sefaz.to.gov.br/st",
+      "protocolos": "https://www.sefaz.to.gov.br/protocolos"
+    },
+    "uf": "TO",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://www.sefaz.to.gov.br/aliquotas",
+        "erro": "falhou GET https://www.sefaz.to.gov.br/aliquotas"
+      },
+      "mva_st": {
+        "url": "https://www.sefaz.to.gov.br/st",
+        "erro": "falhou GET https://www.sefaz.to.gov.br/st"
+      },
+      "protocolos": {
+        "url": "https://www.sefaz.to.gov.br/protocolos",
+        "erro": "falhou GET https://www.sefaz.to.gov.br/protocolos"
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T09:46:20.214010+00:00",
+    "sha256": "71ab02ee0b517056f847585bb3091848d4220a9ab916a01b7eedcf2b0a148153",
+    "source": {
+      "aliquotas": "https://online.sefaz.am.gov.br/legislacao",
+      "mva_st": "https://online.sefaz.am.gov.br/st",
+      "protocolos": "https://online.sefaz.am.gov.br/protocolos"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://online.sefaz.am.gov.br/legislacao",
+      "mva_st": "https://online.sefaz.am.gov.br/st",
+      "protocolos": "https://online.sefaz.am.gov.br/protocolos"
+    },
+    "uf": "AM",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://online.sefaz.am.gov.br/legislacao",
+        "erro": "falhou GET https://online.sefaz.am.gov.br/legislacao"
+      },
+      "mva_st": {
+        "url": "https://online.sefaz.am.gov.br/st",
+        "erro": "falhou GET https://online.sefaz.am.gov.br/st"
+      },
+      "protocolos": {
+        "url": "https://online.sefaz.am.gov.br/protocolos",
+        "erro": "falhou GET https://online.sefaz.am.gov.br/protocolos"
+      }
+    }
+  }
+}

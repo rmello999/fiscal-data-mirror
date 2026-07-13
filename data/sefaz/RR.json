@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-13T10:30:37.876786+00:00",
+    "sha256": "d0551db09b6c1ef129c41cfcf453d236e007572dabf32e394c3bbfc6e4630181",
+    "source": {
+      "aliquotas": "https://www.sefaz.rr.gov.br/aliquotas",
+      "mva_st": "https://www.sefaz.rr.gov.br/st",
+      "protocolos": "https://www.sefaz.rr.gov.br/protocolos"
+    }
+  },
+  "data": {
+    "_source": {
+      "aliquotas": "https://www.sefaz.rr.gov.br/aliquotas",
+      "mva_st": "https://www.sefaz.rr.gov.br/st",
+      "protocolos": "https://www.sefaz.rr.gov.br/protocolos"
+    },
+    "uf": "RR",
+    "paginas": {
+      "aliquotas": {
+        "url": "https://www.sefaz.rr.gov.br/aliquotas",
+        "erro": "falhou GET https://www.sefaz.rr.gov.br/aliquotas"
+      },
+      "mva_st": {
+        "url": "https://www.sefaz.rr.gov.br/st",
+        "erro": "falhou GET https://www.sefaz.rr.gov.br/st"
+      },
+      "protocolos": {
+        "url": "https://www.sefaz.rr.gov.br/protocolos",
+        "erro": "falhou GET https://www.sefaz.rr.gov.br/protocolos"
+      }
+    }
+  }
+}
