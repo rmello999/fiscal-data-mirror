@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-07-13T09:54:55.691258+00:00",
-    "sha256": "6ce64d43197d03788961bc52c38466d400418c9ff1b040dcf09b65a94db16e4c",
+    "generated_at": "2026-07-20T09:43:06.059344+00:00",
+    "sha256": "6b33afd088fc6bd7077c4b2f679dcac1285ad8bddfe7271e2cc3b9b34e6d0474",
     "source": {
       "aliquotas": "https://www.economia.go.gov.br/aliquotas-icms",
       "mva_st": "https://www.economia.go.gov.br/substituicao-tributaria",
@@ -129,20 +129,28 @@
             "href": "https://www.go.gov.br/servicos/servico/emitir-dare--cadin-estadual"
           },
           {
-            "texto": "Secretaria da Economia realiza pregão para contratação de instituição financeira para pagamento de tributos por Pix",
-            "href": "https://goias.gov.br/economia/secretaria-da-economia-realiza-pregao-para-contratacao-de-instituicao-financeira-para-pagamento-de-tributos-por-pix/"
+            "texto": "Estado implanta sistema integrado de planejamento, orçamento e finanças",
+            "href": "https://goias.gov.br/economia/estado-implanta-sistema-integrado-de-planejamento-orcamento-e-financas/"
           },
           {
-            "texto": "Cadastro para sorteio de julho da Nota Fiscal Goiana termina no domingo (12/7)",
-            "href": "https://goias.gov.br/economia/cadastro-para-sorteio-de-julho-da-nota-fiscal-goiana-termina-no-domingo-12-7/"
+            "texto": "Integração de Sistemas",
+            "href": "https://goias.gov.br/economia/tags/integracao-de-sistemas/"
           },
           {
-            "texto": "Agenfa de Pirenópolis está funcionando em novo endereço",
-            "href": "https://goias.gov.br/economia/agenfa-de-pirenopolis-esta-funcionando-em-novo-endereco/"
+            "texto": "Lei que estende incentivo fiscal a fabricantes de máquinas agrícolas entra em vigor",
+            "href": "https://goias.gov.br/economia/lei-que-estende-incentivo-fiscal-a-fabricantes-de-maquinas-agricolas-entra-em-vigor/"
           },
           {
-            "texto": "Agenfa de Campestre de Goiás sem expediente dos dias 13 a 17 de julho",
-            "href": "https://goias.gov.br/economia/agenfa-de-campestre-de-goias-sem-expediente-dos-dias-13-a-17-de-julho/"
+            "texto": "Sétima parcela do IPVA 2026 vence nesta quarta-feira (15/7)",
+            "href": "https://goias.gov.br/economia/setima-parcela-do-ipva-2026-vence-nesta-quarta-feira-15-7/"
+          },
+          {
+            "texto": "DRF da cidade de Goiás estará fechada na segunda-feira, 20",
+            "href": "https://goias.gov.br/economia/drf-da-cidade-de-goias-estara-fechada-na-segunda-feira-20/"
+          },
+          {
+            "texto": "DRF de Anápolis está com serviço de telefonia normalizado",
+            "href": "https://goias.gov.br/economia/drf-de-anapolis-esta-com-servico-de-telefonia-normalizado/"
           },
           {
             "texto": "Cadastro de Autoridades",
@@ -263,20 +271,28 @@
             "href": "https://www.go.gov.br/servicos/servico/emitir-dare--cadin-estadual"
           },
           {
-            "texto": "Secretaria da Economia realiza pregão para contratação de instituição financeira para pagamento de tributos por Pix",
-            "href": "https://goias.gov.br/economia/secretaria-da-economia-realiza-pregao-para-contratacao-de-instituicao-financeira-para-pagamento-de-tributos-por-pix/"
+            "texto": "Estado implanta sistema integrado de planejamento, orçamento e finanças",
+            "href": "https://goias.gov.br/economia/estado-implanta-sistema-integrado-de-planejamento-orcamento-e-financas/"
           },
           {
-            "texto": "Cadastro para sorteio de julho da Nota Fiscal Goiana termina no domingo (12/7)",
-            "href": "https://goias.gov.br/economia/cadastro-para-sorteio-de-julho-da-nota-fiscal-goiana-termina-no-domingo-12-7/"
+            "texto": "Integração de Sistemas",
+            "href": "https://goias.gov.br/economia/tags/integracao-de-sistemas/"
           },
           {
-            "texto": "Agenfa de Pirenópolis está funcionando em novo endereço",
-            "href": "https://goias.gov.br/economia/agenfa-de-pirenopolis-esta-funcionando-em-novo-endereco/"
+            "texto": "Lei que estende incentivo fiscal a fabricantes de máquinas agrícolas entra em vigor",
+            "href": "https://goias.gov.br/economia/lei-que-estende-incentivo-fiscal-a-fabricantes-de-maquinas-agricolas-entra-em-vigor/"
           },
           {
-            "texto": "Agenfa de Campestre de Goiás sem expediente dos dias 13 a 17 de julho",
-            "href": "https://goias.gov.br/economia/agenfa-de-campestre-de-goias-sem-expediente-dos-dias-13-a-17-de-julho/"
+            "texto": "Sétima parcela do IPVA 2026 vence nesta quarta-feira (15/7)",
+            "href": "https://goias.gov.br/economia/setima-parcela-do-ipva-2026-vence-nesta-quarta-feira-15-7/"
+          },
+          {
+            "texto": "DRF da cidade de Goiás estará fechada na segunda-feira, 20",
+            "href": "https://goias.gov.br/economia/drf-da-cidade-de-goias-estara-fechada-na-segunda-feira-20/"
+          },
+          {
+            "texto": "DRF de Anápolis está com serviço de telefonia normalizado",
+            "href": "https://goias.gov.br/economia/drf-de-anapolis-esta-com-servico-de-telefonia-normalizado/"
           },
           {
             "texto": "Cadastro de Autoridades",
@@ -397,20 +413,28 @@
             "href": "https://www.go.gov.br/servicos/servico/emitir-dare--cadin-estadual"
           },
           {
-            "texto": "Secretaria da Economia realiza pregão para contratação de instituição financeira para pagamento de tributos por Pix",
-            "href": "https://goias.gov.br/economia/secretaria-da-economia-realiza-pregao-para-contratacao-de-instituicao-financeira-para-pagamento-de-tributos-por-pix/"
+            "texto": "Estado implanta sistema integrado de planejamento, orçamento e finanças",
+            "href": "https://goias.gov.br/economia/estado-implanta-sistema-integrado-de-planejamento-orcamento-e-financas/"
           },
           {
-            "texto": "Cadastro para sorteio de julho da Nota Fiscal Goiana termina no domingo (12/7)",
-            "href": "https://goias.gov.br/economia/cadastro-para-sorteio-de-julho-da-nota-fiscal-goiana-termina-no-domingo-12-7/"
+            "texto": "Integração de Sistemas",
+            "href": "https://goias.gov.br/economia/tags/integracao-de-sistemas/"
           },
           {
-            "texto": "Agenfa de Pirenópolis está funcionando em novo endereço",
-            "href": "https://goias.gov.br/economia/agenfa-de-pirenopolis-esta-funcionando-em-novo-endereco/"
+            "texto": "Lei que estende incentivo fiscal a fabricantes de máquinas agrícolas entra em vigor",
+            "href": "https://goias.gov.br/economia/lei-que-estende-incentivo-fiscal-a-fabricantes-de-maquinas-agricolas-entra-em-vigor/"
           },
           {
-            "texto": "Agenfa de Campestre de Goiás sem expediente dos dias 13 a 17 de julho",
-            "href": "https://goias.gov.br/economia/agenfa-de-campestre-de-goias-sem-expediente-dos-dias-13-a-17-de-julho/"
+            "texto": "Sétima parcela do IPVA 2026 vence nesta quarta-feira (15/7)",
+            "href": "https://goias.gov.br/economia/setima-parcela-do-ipva-2026-vence-nesta-quarta-feira-15-7/"
+          },
+          {
+            "texto": "DRF da cidade de Goiás estará fechada na segunda-feira, 20",
+            "href": "https://goias.gov.br/economia/drf-da-cidade-de-goias-estara-fechada-na-segunda-feira-20/"
+          },
+          {
+            "texto": "DRF de Anápolis está com serviço de telefonia normalizado",
+            "href": "https://goias.gov.br/economia/drf-de-anapolis-esta-com-servico-de-telefonia-normalizado/"
           },
           {
             "texto": "Cadastro de Autoridades",
