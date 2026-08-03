@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-07-27T10:42:16.469386+00:00",
-    "sha256": "c7085972c0c3fff43f59c95f492e73f98925d473d245ad3be2b9a94783f0191c",
+    "generated_at": "2026-08-03T10:38:01.553345+00:00",
+    "sha256": "9bb25182b37c8be7a43a36392ce7e5c0c1135b4c6844ad5bb0240fdc760887f3",
     "source": {
       "aliquotas": "https://www.sefaz.ms.gov.br/aliquotas",
       "mva_st": "https://www.sefaz.ms.gov.br/st",
@@ -87,6 +87,10 @@
           {
             "texto": "site do STF",
             "href": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-norma-que-proibe-grupos-economicos-de-explorar-loterias-em-mais-de-um-estado/#:~:text=STF%20suspende%20norma%20que%20pro%C3%ADbe,servi%C3%A7o%20marcado%20para%2028%2F10"
+          },
+          {
+            "texto": "PAUTA DE JULGAMENTO N. 98/2026, DE 4 DE AGOSTO DE 2026 (TERÇA-FEIRA).",
+            "href": "https://www.sefaz.ms.gov.br/pauta-de-julgamento-n-98-2026-de-4-de-agosto-de-2026-terca-feira/"
           }
         ]
       },
