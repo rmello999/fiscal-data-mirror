@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-08-03T10:38:01.553345+00:00",
-    "sha256": "9bb25182b37c8be7a43a36392ce7e5c0c1135b4c6844ad5bb0240fdc760887f3",
+    "generated_at": "2026-08-10T08:12:15.962783+00:00",
+    "sha256": "0624895cfb09601c16290a20047aefe3dad12711e4a7857ece7425bee7ccbf6e",
     "source": {
       "aliquotas": "https://www.sefaz.ms.gov.br/aliquotas",
       "mva_st": "https://www.sefaz.ms.gov.br/st",
@@ -87,6 +87,22 @@
           {
             "texto": "site do STF",
             "href": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-norma-que-proibe-grupos-economicos-de-explorar-loterias-em-mais-de-um-estado/#:~:text=STF%20suspende%20norma%20que%20pro%C3%ADbe,servi%C3%A7o%20marcado%20para%2028%2F10"
+          },
+          {
+            "texto": "PAUTA DE JULGAMENTO N. 102/2026, DE 11 DE AGOSTO DE 2026 (TERÇA-FEIRA).",
+            "href": "https://www.sefaz.ms.gov.br/pauta-de-julgamento-n-102-2026-de-11-de-agosto-de-2026-terca-feira/"
+          },
+          {
+            "texto": "PAUTA DE JULGAMENTO N. 101/2026, DE 10 DE AGOSTO DE 2026 (SEGUNDA-FEIRA).",
+            "href": "https://www.sefaz.ms.gov.br/pauta-de-julgamento-n-101-2026-de-10-de-agosto-de-2026-segunda-feira/"
+          },
+          {
+            "texto": "PAUTA DE JULGAMENTO N. 100/2026, DE 6 DE AGOSTO DE 2026 (QUINTA-FEIRA).",
+            "href": "https://www.sefaz.ms.gov.br/pauta-de-julgamento-n-100-2026-de-6-de-agosto-de-2026-quinta-feira/"
+          },
+          {
+            "texto": "PAUTA DE JULGAMENTO N. 99/2026, DE 5 DE AGOSTO DE 2026 (QUARTA-FEIRA).",
+            "href": "https://www.sefaz.ms.gov.br/pauta-de-julgamento-n-99-2026-de-5-de-agosto-de-2026-quarta-feira/"
           },
           {
             "texto": "PAUTA DE JULGAMENTO N. 98/2026, DE 4 DE AGOSTO DE 2026 (TERÇA-FEIRA).",
