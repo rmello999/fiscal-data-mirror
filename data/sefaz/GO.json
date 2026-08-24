@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-08-17T07:29:01.988082+00:00",
-    "sha256": "4080aa94aa0ca34d246cb1fe3fbff0e584537f0fe6be853b87af604ef2f5d346",
+    "generated_at": "2026-08-24T07:25:58.417157+00:00",
+    "sha256": "104f13cca9247d031fa2955be8af792f07821dc077407449f6de4e29ae91e788",
     "source": {
       "aliquotas": "https://www.economia.go.gov.br/aliquotas-icms",
       "mva_st": "https://www.economia.go.gov.br/substituicao-tributaria",
@@ -18,15 +18,417 @@
     "paginas": {
       "aliquotas": {
         "url": "https://www.economia.go.gov.br/aliquotas-icms",
-        "erro": "falhou GET https://www.economia.go.gov.br/aliquotas-icms"
+        "tabelas": [],
+        "links": [
+          {
+            "texto": "Alto contraste",
+            "href": "#"
+          },
+          {
+            "texto": "Institucional",
+            "href": "https://goias.gov.br/economia/institucional/"
+          },
+          {
+            "texto": "Cadastro",
+            "href": "https://nfgoiana.economia.go.gov.br/nfg/cidadao/cadastrar"
+          },
+          {
+            "texto": "Receita Estadual",
+            "href": "#"
+          },
+          {
+            "texto": "Arrecadação Estadual",
+            "href": "https://goias.gov.br/economia/arrecadacao-estadual/"
+          },
+          {
+            "texto": "Cadastro de Contribuintes",
+            "href": "https://goias.gov.br/economia/cce/"
+          },
+          {
+            "texto": "CADIN Estadual",
+            "href": "https://goias.gov.br/economia/cadin-estadual/"
+          },
+          {
+            "texto": "Dívida Ativa",
+            "href": "https://goias.gov.br/economia/divida-ativa/"
+          },
+          {
+            "texto": "Tesouro Estadual",
+            "href": "#"
+          },
+          {
+            "texto": "Sistema Conta Única",
+            "href": "https://goias.gov.br/economia/sistema-da-conta-unica-2/"
+          },
+          {
+            "texto": "Sistema de Finanças Estaduais",
+            "href": "https://goias.gov.br/economia/sistema-de-financas-estaduais/"
+          },
+          {
+            "texto": "Programa de Ajuste Fiscal",
+            "href": "https://goias.gov.br/economia/programa-de-ajuste-fiscalsss/"
+          },
+          {
+            "texto": "Programa de Pleno Pagamento de Dívidas dos Estados – Propag",
+            "href": "https://goias.gov.br/economia/programa-de-pleno-pagamento-de-dividas-dos-estados-propag/"
+          },
+          {
+            "texto": "Institucional",
+            "href": "https://goias.gov.br/economia/institucional/"
+          },
+          {
+            "texto": "Cadastro",
+            "href": "https://nfgoiana.economia.go.gov.br/nfg/cidadao/cadastrar"
+          },
+          {
+            "texto": "Arrecadação Estadual",
+            "href": "https://goias.gov.br/economia/arrecadacao-estadual/"
+          },
+          {
+            "texto": "Cadastro de Contribuintes",
+            "href": "https://goias.gov.br/economia/cce/"
+          },
+          {
+            "texto": "CADIN Estadual",
+            "href": "https://goias.gov.br/economia/cadin-estadual/"
+          },
+          {
+            "texto": "Dívida Ativa",
+            "href": "https://goias.gov.br/economia/divida-ativa/"
+          },
+          {
+            "texto": "Sistema Conta Única",
+            "href": "https://goias.gov.br/economia/sistema-da-conta-unica-2/"
+          },
+          {
+            "texto": "Sistema de Finanças Estaduais",
+            "href": "https://goias.gov.br/economia/sistema-de-financas-estaduais/"
+          },
+          {
+            "texto": "Programa de Ajuste Fiscal",
+            "href": "https://goias.gov.br/economia/programa-de-ajuste-fiscalsss/"
+          },
+          {
+            "texto": "Programa de Pleno Pagamento de Dívidas dos Estados – Propag",
+            "href": "https://goias.gov.br/economia/programa-de-pleno-pagamento-de-dividas-dos-estados-propag/"
+          },
+          {
+            "texto": "IPVA - Imposto sobre Propriedades de Veículos Automotores",
+            "href": "https://goias.gov.br/economia/ipva/"
+          },
+          {
+            "texto": "Emitir Certidão Negativa de Débitos - Secretaria da Economia de Goiás",
+            "href": "https://www.go.gov.br/servicos-digitais/economia/emitir-certidao-negativa-de-debitos/emitir-certidao-negativa"
+          },
+          {
+            "texto": "ITCD - Imposto sobre a Transmissão Causa Mortis e Doação",
+            "href": "https://goias.gov.br/economia/itcd/"
+          },
+          {
+            "texto": "Emitir DARE - CADIN Estadual",
+            "href": "https://www.go.gov.br/servicos/servico/emitir-dare--cadin-estadual"
+          },
+          {
+            "texto": "Parcela de agosto do IPVA 2026 vence na segunda-feira (17/8)",
+            "href": "https://goias.gov.br/economia/parcela-de-agosto-do-ipva-2026-vence-na-segunda-feira-17-8/"
+          },
+          {
+            "texto": "Especialistas discutem impactos da Reforma Tributária em seminário do Tesouro Estadual",
+            "href": "https://goias.gov.br/economia/especialistas-discutem-impactos-da-reforma-tributaria-em-seminario-do-tesouro-estadual/"
+          },
+          {
+            "texto": "2º Seminário do Tesouro Estadual de Goiás debate os desafios da Reforma Tributária para estados e municípios",
+            "href": "https://goias.gov.br/economia/2o-seminario-do-tesouro-estadual-de-goias-debate-os-desafios-da-reforma-tributaria-para-estados-e-municipios/"
+          },
+          {
+            "texto": "Agenfa de Chapadão do Céu não abre nesta sexta-feira",
+            "href": "https://goias.gov.br/economia/agenfa-de-chapadao-do-ceu-nao-abre-nesta-sexta-feira/"
+          },
+          {
+            "texto": "Agenfa de Campestre muda de endereço temporariamente",
+            "href": "https://goias.gov.br/economia/agenfa-de-campestre-muda-de-endereco-temporariamente/"
+          },
+          {
+            "texto": "Cadastro de Autoridades",
+            "href": "https://goias.gov.br/governo/cadastro-de-autoridade/"
+          }
+        ]
       },
       "mva_st": {
         "url": "https://www.economia.go.gov.br/substituicao-tributaria",
-        "erro": "falhou GET https://www.economia.go.gov.br/substituicao-tributaria"
+        "tabelas": [],
+        "links": [
+          {
+            "texto": "Alto contraste",
+            "href": "#"
+          },
+          {
+            "texto": "Institucional",
+            "href": "https://goias.gov.br/economia/institucional/"
+          },
+          {
+            "texto": "Cadastro",
+            "href": "https://nfgoiana.economia.go.gov.br/nfg/cidadao/cadastrar"
+          },
+          {
+            "texto": "Receita Estadual",
+            "href": "#"
+          },
+          {
+            "texto": "Arrecadação Estadual",
+            "href": "https://goias.gov.br/economia/arrecadacao-estadual/"
+          },
+          {
+            "texto": "Cadastro de Contribuintes",
+            "href": "https://goias.gov.br/economia/cce/"
+          },
+          {
+            "texto": "CADIN Estadual",
+            "href": "https://goias.gov.br/economia/cadin-estadual/"
+          },
+          {
+            "texto": "Dívida Ativa",
+            "href": "https://goias.gov.br/economia/divida-ativa/"
+          },
+          {
+            "texto": "Tesouro Estadual",
+            "href": "#"
+          },
+          {
+            "texto": "Sistema Conta Única",
+            "href": "https://goias.gov.br/economia/sistema-da-conta-unica-2/"
+          },
+          {
+            "texto": "Sistema de Finanças Estaduais",
+            "href": "https://goias.gov.br/economia/sistema-de-financas-estaduais/"
+          },
+          {
+            "texto": "Programa de Ajuste Fiscal",
+            "href": "https://goias.gov.br/economia/programa-de-ajuste-fiscalsss/"
+          },
+          {
+            "texto": "Programa de Pleno Pagamento de Dívidas dos Estados – Propag",
+            "href": "https://goias.gov.br/economia/programa-de-pleno-pagamento-de-dividas-dos-estados-propag/"
+          },
+          {
+            "texto": "Institucional",
+            "href": "https://goias.gov.br/economia/institucional/"
+          },
+          {
+            "texto": "Cadastro",
+            "href": "https://nfgoiana.economia.go.gov.br/nfg/cidadao/cadastrar"
+          },
+          {
+            "texto": "Arrecadação Estadual",
+            "href": "https://goias.gov.br/economia/arrecadacao-estadual/"
+          },
+          {
+            "texto": "Cadastro de Contribuintes",
+            "href": "https://goias.gov.br/economia/cce/"
+          },
+          {
+            "texto": "CADIN Estadual",
+            "href": "https://goias.gov.br/economia/cadin-estadual/"
+          },
+          {
+            "texto": "Dívida Ativa",
+            "href": "https://goias.gov.br/economia/divida-ativa/"
+          },
+          {
+            "texto": "Sistema Conta Única",
+            "href": "https://goias.gov.br/economia/sistema-da-conta-unica-2/"
+          },
+          {
+            "texto": "Sistema de Finanças Estaduais",
+            "href": "https://goias.gov.br/economia/sistema-de-financas-estaduais/"
+          },
+          {
+            "texto": "Programa de Ajuste Fiscal",
+            "href": "https://goias.gov.br/economia/programa-de-ajuste-fiscalsss/"
+          },
+          {
+            "texto": "Programa de Pleno Pagamento de Dívidas dos Estados – Propag",
+            "href": "https://goias.gov.br/economia/programa-de-pleno-pagamento-de-dividas-dos-estados-propag/"
+          },
+          {
+            "texto": "IPVA - Imposto sobre Propriedades de Veículos Automotores",
+            "href": "https://goias.gov.br/economia/ipva/"
+          },
+          {
+            "texto": "Emitir Certidão Negativa de Débitos - Secretaria da Economia de Goiás",
+            "href": "https://www.go.gov.br/servicos-digitais/economia/emitir-certidao-negativa-de-debitos/emitir-certidao-negativa"
+          },
+          {
+            "texto": "ITCD - Imposto sobre a Transmissão Causa Mortis e Doação",
+            "href": "https://goias.gov.br/economia/itcd/"
+          },
+          {
+            "texto": "Emitir DARE - CADIN Estadual",
+            "href": "https://www.go.gov.br/servicos/servico/emitir-dare--cadin-estadual"
+          },
+          {
+            "texto": "Parcela de agosto do IPVA 2026 vence na segunda-feira (17/8)",
+            "href": "https://goias.gov.br/economia/parcela-de-agosto-do-ipva-2026-vence-na-segunda-feira-17-8/"
+          },
+          {
+            "texto": "Especialistas discutem impactos da Reforma Tributária em seminário do Tesouro Estadual",
+            "href": "https://goias.gov.br/economia/especialistas-discutem-impactos-da-reforma-tributaria-em-seminario-do-tesouro-estadual/"
+          },
+          {
+            "texto": "2º Seminário do Tesouro Estadual de Goiás debate os desafios da Reforma Tributária para estados e municípios",
+            "href": "https://goias.gov.br/economia/2o-seminario-do-tesouro-estadual-de-goias-debate-os-desafios-da-reforma-tributaria-para-estados-e-municipios/"
+          },
+          {
+            "texto": "Agenfa de Chapadão do Céu não abre nesta sexta-feira",
+            "href": "https://goias.gov.br/economia/agenfa-de-chapadao-do-ceu-nao-abre-nesta-sexta-feira/"
+          },
+          {
+            "texto": "Agenfa de Campestre muda de endereço temporariamente",
+            "href": "https://goias.gov.br/economia/agenfa-de-campestre-muda-de-endereco-temporariamente/"
+          },
+          {
+            "texto": "Cadastro de Autoridades",
+            "href": "https://goias.gov.br/governo/cadastro-de-autoridade/"
+          }
+        ]
       },
       "protocolos": {
         "url": "https://www.economia.go.gov.br/protocolos",
-        "erro": "falhou GET https://www.economia.go.gov.br/protocolos"
+        "tabelas": [],
+        "links": [
+          {
+            "texto": "Alto contraste",
+            "href": "#"
+          },
+          {
+            "texto": "Institucional",
+            "href": "https://goias.gov.br/economia/institucional/"
+          },
+          {
+            "texto": "Cadastro",
+            "href": "https://nfgoiana.economia.go.gov.br/nfg/cidadao/cadastrar"
+          },
+          {
+            "texto": "Receita Estadual",
+            "href": "#"
+          },
+          {
+            "texto": "Arrecadação Estadual",
+            "href": "https://goias.gov.br/economia/arrecadacao-estadual/"
+          },
+          {
+            "texto": "Cadastro de Contribuintes",
+            "href": "https://goias.gov.br/economia/cce/"
+          },
+          {
+            "texto": "CADIN Estadual",
+            "href": "https://goias.gov.br/economia/cadin-estadual/"
+          },
+          {
+            "texto": "Dívida Ativa",
+            "href": "https://goias.gov.br/economia/divida-ativa/"
+          },
+          {
+            "texto": "Tesouro Estadual",
+            "href": "#"
+          },
+          {
+            "texto": "Sistema Conta Única",
+            "href": "https://goias.gov.br/economia/sistema-da-conta-unica-2/"
+          },
+          {
+            "texto": "Sistema de Finanças Estaduais",
+            "href": "https://goias.gov.br/economia/sistema-de-financas-estaduais/"
+          },
+          {
+            "texto": "Programa de Ajuste Fiscal",
+            "href": "https://goias.gov.br/economia/programa-de-ajuste-fiscalsss/"
+          },
+          {
+            "texto": "Programa de Pleno Pagamento de Dívidas dos Estados – Propag",
+            "href": "https://goias.gov.br/economia/programa-de-pleno-pagamento-de-dividas-dos-estados-propag/"
+          },
+          {
+            "texto": "Institucional",
+            "href": "https://goias.gov.br/economia/institucional/"
+          },
+          {
+            "texto": "Cadastro",
+            "href": "https://nfgoiana.economia.go.gov.br/nfg/cidadao/cadastrar"
+          },
+          {
+            "texto": "Arrecadação Estadual",
+            "href": "https://goias.gov.br/economia/arrecadacao-estadual/"
+          },
+          {
+            "texto": "Cadastro de Contribuintes",
+            "href": "https://goias.gov.br/economia/cce/"
+          },
+          {
+            "texto": "CADIN Estadual",
+            "href": "https://goias.gov.br/economia/cadin-estadual/"
+          },
+          {
+            "texto": "Dívida Ativa",
+            "href": "https://goias.gov.br/economia/divida-ativa/"
+          },
+          {
+            "texto": "Sistema Conta Única",
+            "href": "https://goias.gov.br/economia/sistema-da-conta-unica-2/"
+          },
+          {
+            "texto": "Sistema de Finanças Estaduais",
+            "href": "https://goias.gov.br/economia/sistema-de-financas-estaduais/"
+          },
+          {
+            "texto": "Programa de Ajuste Fiscal",
+            "href": "https://goias.gov.br/economia/programa-de-ajuste-fiscalsss/"
+          },
+          {
+            "texto": "Programa de Pleno Pagamento de Dívidas dos Estados – Propag",
+            "href": "https://goias.gov.br/economia/programa-de-pleno-pagamento-de-dividas-dos-estados-propag/"
+          },
+          {
+            "texto": "IPVA - Imposto sobre Propriedades de Veículos Automotores",
+            "href": "https://goias.gov.br/economia/ipva/"
+          },
+          {
+            "texto": "Emitir Certidão Negativa de Débitos - Secretaria da Economia de Goiás",
+            "href": "https://www.go.gov.br/servicos-digitais/economia/emitir-certidao-negativa-de-debitos/emitir-certidao-negativa"
+          },
+          {
+            "texto": "ITCD - Imposto sobre a Transmissão Causa Mortis e Doação",
+            "href": "https://goias.gov.br/economia/itcd/"
+          },
+          {
+            "texto": "Emitir DARE - CADIN Estadual",
+            "href": "https://www.go.gov.br/servicos/servico/emitir-dare--cadin-estadual"
+          },
+          {
+            "texto": "Parcela de agosto do IPVA 2026 vence na segunda-feira (17/8)",
+            "href": "https://goias.gov.br/economia/parcela-de-agosto-do-ipva-2026-vence-na-segunda-feira-17-8/"
+          },
+          {
+            "texto": "Especialistas discutem impactos da Reforma Tributária em seminário do Tesouro Estadual",
+            "href": "https://goias.gov.br/economia/especialistas-discutem-impactos-da-reforma-tributaria-em-seminario-do-tesouro-estadual/"
+          },
+          {
+            "texto": "2º Seminário do Tesouro Estadual de Goiás debate os desafios da Reforma Tributária para estados e municípios",
+            "href": "https://goias.gov.br/economia/2o-seminario-do-tesouro-estadual-de-goias-debate-os-desafios-da-reforma-tributaria-para-estados-e-municipios/"
+          },
+          {
+            "texto": "Agenfa de Chapadão do Céu não abre nesta sexta-feira",
+            "href": "https://goias.gov.br/economia/agenfa-de-chapadao-do-ceu-nao-abre-nesta-sexta-feira/"
+          },
+          {
+            "texto": "Agenfa de Campestre muda de endereço temporariamente",
+            "href": "https://goias.gov.br/economia/agenfa-de-campestre-muda-de-endereco-temporariamente/"
+          },
+          {
+            "texto": "Cadastro de Autoridades",
+            "href": "https://goias.gov.br/governo/cadastro-de-autoridade/"
+          }
+        ]
       }
     }
   }

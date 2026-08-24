@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-08-17T07:41:10.565514+00:00",
-    "sha256": "a40021df03b3c9ad1e1c79090348bb221e97fb6ab5931156adf219787facd535",
+    "generated_at": "2026-08-24T07:30:08.675299+00:00",
+    "sha256": "5f0275a1b88ed8a2230a28e0e372d96501f93b39399ae5e5386deee70218ccd6",
     "source": {
       "aliquotas": "http://www.fazenda.mg.gov.br/empresas/legislacao_tributaria/aliquotas/",
       "mva_st": "http://www.fazenda.mg.gov.br/empresas/legislacao_tributaria/st/",
@@ -18,18 +18,15 @@
     "paginas": {
       "aliquotas": {
         "url": "http://www.fazenda.mg.gov.br/empresas/legislacao_tributaria/aliquotas/",
-        "tabelas": [],
-        "links": []
+        "erro": "falhou GET http://www.fazenda.mg.gov.br/empresas/legislacao_tributaria/aliquotas/"
       },
       "mva_st": {
         "url": "http://www.fazenda.mg.gov.br/empresas/legislacao_tributaria/st/",
-        "tabelas": [],
-        "links": []
+        "erro": "falhou GET http://www.fazenda.mg.gov.br/empresas/legislacao_tributaria/st/"
       },
       "protocolos": {
         "url": "http://www.fazenda.mg.gov.br/empresas/legislacao_tributaria/protocolos/",
-        "tabelas": [],
-        "links": []
+        "erro": "falhou GET http://www.fazenda.mg.gov.br/empresas/legislacao_tributaria/protocolos/"
       }
     }
   }
