@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-08-31T13:46:35.343606+00:00",
-    "sha256": "4a322b9fb894e0e7e923db877e21e5dc0759d43f5367117c5bcedc9d65b343d0",
+    "generated_at": "2026-09-07T12:44:08.683570+00:00",
+    "sha256": "c7085972c0c3fff43f59c95f492e73f98925d473d245ad3be2b9a94783f0191c",
     "source": {
       "aliquotas": "https://www.sefaz.ms.gov.br/aliquotas",
       "mva_st": "https://www.sefaz.ms.gov.br/st",
@@ -87,18 +87,6 @@
           {
             "texto": "site do STF",
             "href": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-norma-que-proibe-grupos-economicos-de-explorar-loterias-em-mais-de-um-estado/#:~:text=STF%20suspende%20norma%20que%20pro%C3%ADbe,servi%C3%A7o%20marcado%20para%2028%2F10"
-          },
-          {
-            "texto": "PAUTA DE JULGAMENTO N. 113/2026, DE 31 DE AGOSTO DE 2026 (SEGUNDA-FEIRA).",
-            "href": "https://www.sefaz.ms.gov.br/pauta-de-julgamento-n-113-2026-de-31-de-agosto-de-2026-segunda-feira/"
-          },
-          {
-            "texto": "PAUTA DE JULGAMENTO N. 112/2026, DE 27 DE AGOSTO DE 2026 (QUINTA-FEIRA).",
-            "href": "https://www.sefaz.ms.gov.br/pauta-de-julgamento-n-112-2026-de-27-de-agosto-de-2026-quinta-feira/"
-          },
-          {
-            "texto": "PAUTA DE JULGAMENTO N. 111/2026, DE 25 DE AGOSTO DE 2026 (TERÇA-FEIRA).",
-            "href": "https://www.sefaz.ms.gov.br/pauta-de-julgamento-n-111-2026-de-25-de-agosto-de-2026-terca-feira/"
           }
         ]
       },

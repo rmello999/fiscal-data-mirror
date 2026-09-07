@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-08-31T13:32:43.089245+00:00",
-    "sha256": "64d79d09d336d117835b1e03c6c8b5925fd18fa542ec6514b45aa7bc78ae301c",
+    "generated_at": "2026-09-07T12:18:17.352908+00:00",
+    "sha256": "5614a62509a9f32261e5e8c92d72b514d2a5023bc6d51474ee6fb52b093a238a",
     "source": {
       "aliquotas": "https://sefaz.ac.gov.br/aliquotas-icms",
       "mva_st": "https://sefaz.ac.gov.br/substituicao-tributaria",
@@ -18,15 +18,525 @@
     "paginas": {
       "aliquotas": {
         "url": "https://sefaz.ac.gov.br/aliquotas-icms",
-        "erro": "falhou GET https://sefaz.ac.gov.br/aliquotas-icms"
+        "tabelas": [],
+        "links": [
+          {
+            "texto": "Institucional",
+            "href": "#"
+          },
+          {
+            "texto": "Conselho Superior de Administração Tributária",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19480"
+          },
+          {
+            "texto": "Contabilidade Geral do Estado",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=18776"
+          },
+          {
+            "texto": "Estrutura Organizacional e Regimento Interno",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=3988"
+          },
+          {
+            "texto": "Planejamento Estratégico",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19163"
+          },
+          {
+            "texto": "Tribunal Administrativo de Tributos Estaduais",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19255"
+          },
+          {
+            "texto": "Legislação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=16558"
+          },
+          {
+            "texto": "Processo Administrativo Tributário",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=17507"
+          },
+          {
+            "texto": "Institucional e Funcional",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=17144"
+          },
+          {
+            "texto": "Cadastro de Credores",
+            "href": "https://sefaz.ac.gov.br/2021/?p=434"
+          },
+          {
+            "texto": "Cadastro de Contribuintes",
+            "href": "https://sefaz.ac.gov.br/2021/?p=438"
+          },
+          {
+            "texto": "Certidão Negativa de Débitos",
+            "href": "https://sefaz.ac.gov.br/2021/?p=322"
+          },
+          {
+            "texto": "DeSTDA",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=331"
+          },
+          {
+            "texto": "Manual do Imposto de Renda Retido na Fonte",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=10383"
+          },
+          {
+            "texto": "Sistema de Informações Fiscais",
+            "href": "https://sinf.sefaz.ac.gov.br/"
+          },
+          {
+            "texto": "Contabilidade Geral do Estado",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=18776"
+          },
+          {
+            "texto": "Programa de Ajuste Fiscal",
+            "href": "https://sefaz.ac.gov.br/2021/?p=17617"
+          },
+          {
+            "texto": "Distribuição da Arrecadação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?p=23515"
+          },
+          {
+            "texto": "Sistema de Informações Fiscais",
+            "href": "https://sinf.sefaz.ac.gov.br/"
+          },
+          {
+            "texto": "Institucional",
+            "href": "#"
+          },
+          {
+            "texto": "Conselho Superior de Administração Tributária",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19480"
+          },
+          {
+            "texto": "Contabilidade Geral do Estado",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=18776"
+          },
+          {
+            "texto": "Estrutura Organizacional e Regimento Interno",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=3988"
+          },
+          {
+            "texto": "Planejamento Estratégico",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19163"
+          },
+          {
+            "texto": "Tribunal Administrativo de Tributos Estaduais",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19255"
+          },
+          {
+            "texto": "Legislação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=16558"
+          },
+          {
+            "texto": "Processo Administrativo Tributário",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=17507"
+          },
+          {
+            "texto": "Institucional e Funcional",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=17144"
+          },
+          {
+            "texto": "Cadastro de Credores",
+            "href": "https://sefaz.ac.gov.br/2021/?p=434"
+          },
+          {
+            "texto": "Cadastro de Contribuintes",
+            "href": "https://sefaz.ac.gov.br/2021/?p=438"
+          },
+          {
+            "texto": "Certidão Negativa de Débitos",
+            "href": "https://sefaz.ac.gov.br/2021/?p=322"
+          },
+          {
+            "texto": "DeSTDA",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=331"
+          },
+          {
+            "texto": "Manual do Imposto de Renda Retido na Fonte",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=10383"
+          },
+          {
+            "texto": "Sistema de Informações Fiscais",
+            "href": "https://sinf.sefaz.ac.gov.br/"
+          },
+          {
+            "texto": "Contabilidade Geral do Estado",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=18776"
+          },
+          {
+            "texto": "Programa de Ajuste Fiscal",
+            "href": "https://sefaz.ac.gov.br/2021/?p=17617"
+          },
+          {
+            "texto": "Distribuição da Arrecadação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?p=23515"
+          },
+          {
+            "texto": "Sistema de Informações Fiscais",
+            "href": "https://sinf.sefaz.ac.gov.br/"
+          },
+          {
+            "texto": "Instagram",
+            "href": "https://www.instagram.com/sefazacre/"
+          },
+          {
+            "texto": "Cadastro de Credores",
+            "href": "https://sefaz.ac.gov.br/2021/?p=434"
+          },
+          {
+            "texto": "Distribuição da Arrecadação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?p=11253"
+          },
+          {
+            "texto": "Instagram",
+            "href": "https://www.instagram.com/sefazacre/"
+          }
+        ]
       },
       "mva_st": {
         "url": "https://sefaz.ac.gov.br/substituicao-tributaria",
-        "erro": "falhou GET https://sefaz.ac.gov.br/substituicao-tributaria"
+        "tabelas": [],
+        "links": [
+          {
+            "texto": "Institucional",
+            "href": "#"
+          },
+          {
+            "texto": "Conselho Superior de Administração Tributária",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19480"
+          },
+          {
+            "texto": "Contabilidade Geral do Estado",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=18776"
+          },
+          {
+            "texto": "Estrutura Organizacional e Regimento Interno",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=3988"
+          },
+          {
+            "texto": "Planejamento Estratégico",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19163"
+          },
+          {
+            "texto": "Tribunal Administrativo de Tributos Estaduais",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19255"
+          },
+          {
+            "texto": "Legislação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=16558"
+          },
+          {
+            "texto": "Processo Administrativo Tributário",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=17507"
+          },
+          {
+            "texto": "Institucional e Funcional",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=17144"
+          },
+          {
+            "texto": "Cadastro de Credores",
+            "href": "https://sefaz.ac.gov.br/2021/?p=434"
+          },
+          {
+            "texto": "Cadastro de Contribuintes",
+            "href": "https://sefaz.ac.gov.br/2021/?p=438"
+          },
+          {
+            "texto": "Certidão Negativa de Débitos",
+            "href": "https://sefaz.ac.gov.br/2021/?p=322"
+          },
+          {
+            "texto": "DeSTDA",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=331"
+          },
+          {
+            "texto": "Manual do Imposto de Renda Retido na Fonte",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=10383"
+          },
+          {
+            "texto": "Sistema de Informações Fiscais",
+            "href": "https://sinf.sefaz.ac.gov.br/"
+          },
+          {
+            "texto": "Contabilidade Geral do Estado",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=18776"
+          },
+          {
+            "texto": "Programa de Ajuste Fiscal",
+            "href": "https://sefaz.ac.gov.br/2021/?p=17617"
+          },
+          {
+            "texto": "Distribuição da Arrecadação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?p=23515"
+          },
+          {
+            "texto": "Sistema de Informações Fiscais",
+            "href": "https://sinf.sefaz.ac.gov.br/"
+          },
+          {
+            "texto": "Institucional",
+            "href": "#"
+          },
+          {
+            "texto": "Conselho Superior de Administração Tributária",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19480"
+          },
+          {
+            "texto": "Contabilidade Geral do Estado",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=18776"
+          },
+          {
+            "texto": "Estrutura Organizacional e Regimento Interno",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=3988"
+          },
+          {
+            "texto": "Planejamento Estratégico",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19163"
+          },
+          {
+            "texto": "Tribunal Administrativo de Tributos Estaduais",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19255"
+          },
+          {
+            "texto": "Legislação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=16558"
+          },
+          {
+            "texto": "Processo Administrativo Tributário",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=17507"
+          },
+          {
+            "texto": "Institucional e Funcional",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=17144"
+          },
+          {
+            "texto": "Cadastro de Credores",
+            "href": "https://sefaz.ac.gov.br/2021/?p=434"
+          },
+          {
+            "texto": "Cadastro de Contribuintes",
+            "href": "https://sefaz.ac.gov.br/2021/?p=438"
+          },
+          {
+            "texto": "Certidão Negativa de Débitos",
+            "href": "https://sefaz.ac.gov.br/2021/?p=322"
+          },
+          {
+            "texto": "DeSTDA",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=331"
+          },
+          {
+            "texto": "Manual do Imposto de Renda Retido na Fonte",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=10383"
+          },
+          {
+            "texto": "Sistema de Informações Fiscais",
+            "href": "https://sinf.sefaz.ac.gov.br/"
+          },
+          {
+            "texto": "Contabilidade Geral do Estado",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=18776"
+          },
+          {
+            "texto": "Programa de Ajuste Fiscal",
+            "href": "https://sefaz.ac.gov.br/2021/?p=17617"
+          },
+          {
+            "texto": "Distribuição da Arrecadação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?p=23515"
+          },
+          {
+            "texto": "Sistema de Informações Fiscais",
+            "href": "https://sinf.sefaz.ac.gov.br/"
+          },
+          {
+            "texto": "Instagram",
+            "href": "https://www.instagram.com/sefazacre/"
+          },
+          {
+            "texto": "Cadastro de Credores",
+            "href": "https://sefaz.ac.gov.br/2021/?p=434"
+          },
+          {
+            "texto": "Distribuição da Arrecadação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?p=11253"
+          },
+          {
+            "texto": "Instagram",
+            "href": "https://www.instagram.com/sefazacre/"
+          }
+        ]
       },
       "protocolos": {
         "url": "https://sefaz.ac.gov.br/protocolos-icms",
-        "erro": "falhou GET https://sefaz.ac.gov.br/protocolos-icms"
+        "tabelas": [],
+        "links": [
+          {
+            "texto": "Institucional",
+            "href": "#"
+          },
+          {
+            "texto": "Conselho Superior de Administração Tributária",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19480"
+          },
+          {
+            "texto": "Contabilidade Geral do Estado",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=18776"
+          },
+          {
+            "texto": "Estrutura Organizacional e Regimento Interno",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=3988"
+          },
+          {
+            "texto": "Planejamento Estratégico",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19163"
+          },
+          {
+            "texto": "Tribunal Administrativo de Tributos Estaduais",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19255"
+          },
+          {
+            "texto": "Legislação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=16558"
+          },
+          {
+            "texto": "Processo Administrativo Tributário",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=17507"
+          },
+          {
+            "texto": "Institucional e Funcional",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=17144"
+          },
+          {
+            "texto": "Cadastro de Credores",
+            "href": "https://sefaz.ac.gov.br/2021/?p=434"
+          },
+          {
+            "texto": "Cadastro de Contribuintes",
+            "href": "https://sefaz.ac.gov.br/2021/?p=438"
+          },
+          {
+            "texto": "Certidão Negativa de Débitos",
+            "href": "https://sefaz.ac.gov.br/2021/?p=322"
+          },
+          {
+            "texto": "DeSTDA",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=331"
+          },
+          {
+            "texto": "Manual do Imposto de Renda Retido na Fonte",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=10383"
+          },
+          {
+            "texto": "Sistema de Informações Fiscais",
+            "href": "https://sinf.sefaz.ac.gov.br/"
+          },
+          {
+            "texto": "Contabilidade Geral do Estado",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=18776"
+          },
+          {
+            "texto": "Programa de Ajuste Fiscal",
+            "href": "https://sefaz.ac.gov.br/2021/?p=17617"
+          },
+          {
+            "texto": "Distribuição da Arrecadação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?p=23515"
+          },
+          {
+            "texto": "Sistema de Informações Fiscais",
+            "href": "https://sinf.sefaz.ac.gov.br/"
+          },
+          {
+            "texto": "Institucional",
+            "href": "#"
+          },
+          {
+            "texto": "Conselho Superior de Administração Tributária",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19480"
+          },
+          {
+            "texto": "Contabilidade Geral do Estado",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=18776"
+          },
+          {
+            "texto": "Estrutura Organizacional e Regimento Interno",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=3988"
+          },
+          {
+            "texto": "Planejamento Estratégico",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19163"
+          },
+          {
+            "texto": "Tribunal Administrativo de Tributos Estaduais",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=19255"
+          },
+          {
+            "texto": "Legislação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=16558"
+          },
+          {
+            "texto": "Processo Administrativo Tributário",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=17507"
+          },
+          {
+            "texto": "Institucional e Funcional",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=17144"
+          },
+          {
+            "texto": "Cadastro de Credores",
+            "href": "https://sefaz.ac.gov.br/2021/?p=434"
+          },
+          {
+            "texto": "Cadastro de Contribuintes",
+            "href": "https://sefaz.ac.gov.br/2021/?p=438"
+          },
+          {
+            "texto": "Certidão Negativa de Débitos",
+            "href": "https://sefaz.ac.gov.br/2021/?p=322"
+          },
+          {
+            "texto": "DeSTDA",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=331"
+          },
+          {
+            "texto": "Manual do Imposto de Renda Retido na Fonte",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=10383"
+          },
+          {
+            "texto": "Sistema de Informações Fiscais",
+            "href": "https://sinf.sefaz.ac.gov.br/"
+          },
+          {
+            "texto": "Contabilidade Geral do Estado",
+            "href": "https://sefaz.ac.gov.br/2021/?page_id=18776"
+          },
+          {
+            "texto": "Programa de Ajuste Fiscal",
+            "href": "https://sefaz.ac.gov.br/2021/?p=17617"
+          },
+          {
+            "texto": "Distribuição da Arrecadação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?p=23515"
+          },
+          {
+            "texto": "Sistema de Informações Fiscais",
+            "href": "https://sinf.sefaz.ac.gov.br/"
+          },
+          {
+            "texto": "Instagram",
+            "href": "https://www.instagram.com/sefazacre/"
+          },
+          {
+            "texto": "Cadastro de Credores",
+            "href": "https://sefaz.ac.gov.br/2021/?p=434"
+          },
+          {
+            "texto": "Distribuição da Arrecadação Estadual",
+            "href": "https://sefaz.ac.gov.br/2021/?p=11253"
+          },
+          {
+            "texto": "Instagram",
+            "href": "https://www.instagram.com/sefazacre/"
+          }
+        ]
       }
     }
   }
