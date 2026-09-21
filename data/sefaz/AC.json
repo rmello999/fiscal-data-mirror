@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-09-14T12:33:47.486093+00:00",
-    "sha256": "5614a62509a9f32261e5e8c92d72b514d2a5023bc6d51474ee6fb52b093a238a",
+    "generated_at": "2026-09-21T12:39:52.390171+00:00",
+    "sha256": "eac6e1860b3cd2896773439d72bab9db03afeea688293f312215b77d53e40836",
     "source": {
       "aliquotas": "https://sefaz.ac.gov.br/aliquotas-icms",
       "mva_st": "https://sefaz.ac.gov.br/substituicao-tributaria",
@@ -55,18 +55,6 @@
           {
             "texto": "Institucional e Funcional",
             "href": "https://sefaz.ac.gov.br/2021/?page_id=17144"
-          },
-          {
-            "texto": "Cadastro de Credores",
-            "href": "https://sefaz.ac.gov.br/2021/?p=434"
-          },
-          {
-            "texto": "Cadastro de Contribuintes",
-            "href": "https://sefaz.ac.gov.br/2021/?p=438"
-          },
-          {
-            "texto": "Certidão Negativa de Débitos",
-            "href": "https://sefaz.ac.gov.br/2021/?p=322"
           },
           {
             "texto": "DeSTDA",
@@ -131,18 +119,6 @@
           {
             "texto": "Institucional e Funcional",
             "href": "https://sefaz.ac.gov.br/2021/?page_id=17144"
-          },
-          {
-            "texto": "Cadastro de Credores",
-            "href": "https://sefaz.ac.gov.br/2021/?p=434"
-          },
-          {
-            "texto": "Cadastro de Contribuintes",
-            "href": "https://sefaz.ac.gov.br/2021/?p=438"
-          },
-          {
-            "texto": "Certidão Negativa de Débitos",
-            "href": "https://sefaz.ac.gov.br/2021/?p=322"
           },
           {
             "texto": "DeSTDA",
@@ -231,18 +207,6 @@
             "href": "https://sefaz.ac.gov.br/2021/?page_id=17144"
           },
           {
-            "texto": "Cadastro de Credores",
-            "href": "https://sefaz.ac.gov.br/2021/?p=434"
-          },
-          {
-            "texto": "Cadastro de Contribuintes",
-            "href": "https://sefaz.ac.gov.br/2021/?p=438"
-          },
-          {
-            "texto": "Certidão Negativa de Débitos",
-            "href": "https://sefaz.ac.gov.br/2021/?p=322"
-          },
-          {
             "texto": "DeSTDA",
             "href": "https://sefaz.ac.gov.br/2021/?page_id=331"
           },
@@ -305,18 +269,6 @@
           {
             "texto": "Institucional e Funcional",
             "href": "https://sefaz.ac.gov.br/2021/?page_id=17144"
-          },
-          {
-            "texto": "Cadastro de Credores",
-            "href": "https://sefaz.ac.gov.br/2021/?p=434"
-          },
-          {
-            "texto": "Cadastro de Contribuintes",
-            "href": "https://sefaz.ac.gov.br/2021/?p=438"
-          },
-          {
-            "texto": "Certidão Negativa de Débitos",
-            "href": "https://sefaz.ac.gov.br/2021/?p=322"
           },
           {
             "texto": "DeSTDA",
@@ -405,18 +357,6 @@
             "href": "https://sefaz.ac.gov.br/2021/?page_id=17144"
           },
           {
-            "texto": "Cadastro de Credores",
-            "href": "https://sefaz.ac.gov.br/2021/?p=434"
-          },
-          {
-            "texto": "Cadastro de Contribuintes",
-            "href": "https://sefaz.ac.gov.br/2021/?p=438"
-          },
-          {
-            "texto": "Certidão Negativa de Débitos",
-            "href": "https://sefaz.ac.gov.br/2021/?p=322"
-          },
-          {
             "texto": "DeSTDA",
             "href": "https://sefaz.ac.gov.br/2021/?page_id=331"
           },
@@ -479,18 +419,6 @@
           {
             "texto": "Institucional e Funcional",
             "href": "https://sefaz.ac.gov.br/2021/?page_id=17144"
-          },
-          {
-            "texto": "Cadastro de Credores",
-            "href": "https://sefaz.ac.gov.br/2021/?p=434"
-          },
-          {
-            "texto": "Cadastro de Contribuintes",
-            "href": "https://sefaz.ac.gov.br/2021/?p=438"
-          },
-          {
-            "texto": "Certidão Negativa de Débitos",
-            "href": "https://sefaz.ac.gov.br/2021/?p=322"
           },
           {
             "texto": "DeSTDA",
