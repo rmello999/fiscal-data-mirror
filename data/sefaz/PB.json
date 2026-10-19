@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-10-12T15:40:21.731851+00:00",
-    "sha256": "cd6c2a8857d78ef05cf0c0609a26a6f8d789715e60be9e717b4faf4e05878348",
+    "generated_at": "2026-10-19T13:16:57.953639+00:00",
+    "sha256": "8950eaf64c77fe37ce73157af58430dffd6ccd03d358482eb995b810e54c1eae",
     "source": {
       "aliquotas": "https://www.sefaz.pb.gov.br/aliquotas",
       "mva_st": "https://www.sefaz.pb.gov.br/st",
@@ -18,15 +18,117 @@
     "paginas": {
       "aliquotas": {
         "url": "https://www.sefaz.pb.gov.br/aliquotas",
-        "erro": "falhou GET https://www.sefaz.pb.gov.br/aliquotas"
+        "tabelas": [],
+        "links": [
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "Política de Privacidade",
+            "href": "/privacidade"
+          },
+          {
+            "texto": "Gestores",
+            "href": "/instituciona/gestores"
+          },
+          {
+            "texto": "Governo do Estado da PB",
+            "href": "http://www.paraiba.pb.gov.br/"
+          },
+          {
+            "texto": "ESAT - Escola de Administração Tributária",
+            "href": "https://sesat1.sefaz.pb.gov.br/esat"
+          },
+          {
+            "texto": "GIA-ST",
+            "href": "/info/declaracoes/gia-st"
+          }
+        ]
       },
       "mva_st": {
         "url": "https://www.sefaz.pb.gov.br/st",
-        "erro": "falhou GET https://www.sefaz.pb.gov.br/st"
+        "tabelas": [],
+        "links": [
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "Política de Privacidade",
+            "href": "/privacidade"
+          },
+          {
+            "texto": "Gestores",
+            "href": "/instituciona/gestores"
+          },
+          {
+            "texto": "Governo do Estado da PB",
+            "href": "http://www.paraiba.pb.gov.br/"
+          },
+          {
+            "texto": "ESAT - Escola de Administração Tributária",
+            "href": "https://sesat1.sefaz.pb.gov.br/esat"
+          },
+          {
+            "texto": "GIA-ST",
+            "href": "/info/declaracoes/gia-st"
+          }
+        ]
       },
       "protocolos": {
         "url": "https://www.sefaz.pb.gov.br/protocolos",
-        "erro": "falhou GET https://www.sefaz.pb.gov.br/protocolos"
+        "tabelas": [],
+        "links": [
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "Política de Privacidade",
+            "href": "/privacidade"
+          },
+          {
+            "texto": "Gestores",
+            "href": "/instituciona/gestores"
+          },
+          {
+            "texto": "Governo do Estado da PB",
+            "href": "http://www.paraiba.pb.gov.br/"
+          },
+          {
+            "texto": "ESAT - Escola de Administração Tributária",
+            "href": "https://sesat1.sefaz.pb.gov.br/esat"
+          },
+          {
+            "texto": "GIA-ST",
+            "href": "/info/declaracoes/gia-st"
+          }
+        ]
       }
     }
   }
