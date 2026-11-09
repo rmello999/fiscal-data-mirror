@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-11-02T15:33:26.533872+00:00",
-    "sha256": "59f36f0f2a10ed2638eafbfdf8a8d597d17f192c069ce52f6d9340c6a06f4e6c",
+    "generated_at": "2026-11-09T16:13:04.241373+00:00",
+    "sha256": "cc2f96b6bb5b23e580c015ef971a997f6111544ac3fbe248e16dda503a07a011",
     "source": {
       "aliquotas": "https://www.sefaz.al.gov.br/legislacao/icms",
       "mva_st": "https://www.sefaz.al.gov.br/substituicao-tributaria",
@@ -21,6 +21,10 @@
         "tabelas": [],
         "links": [
           {
+            "texto": "Acesso diretoNota Fiscal CidadÃ£Acesse o sistema da Nota Fiscal CidadÃ£ da SEFAZ-AL.Acessar",
+            "href": "https://nfa.sefaz.al.gov.br/nfa"
+          },
+          {
             "texto": "CertidÃµes NegativasEmissÃ£o e validaÃ§Ã£o de certidÃµes negativas.",
             "href": "https://contribuinte.sefaz.al.gov.br/certidao/#/certidao-contribuinte"
           },
@@ -39,6 +43,10 @@
         "tabelas": [],
         "links": [
           {
+            "texto": "Acesso diretoNota Fiscal CidadÃ£Acesse o sistema da Nota Fiscal CidadÃ£ da SEFAZ-AL.Acessar",
+            "href": "https://nfa.sefaz.al.gov.br/nfa"
+          },
+          {
             "texto": "CertidÃµes NegativasEmissÃ£o e validaÃ§Ã£o de certidÃµes negativas.",
             "href": "https://contribuinte.sefaz.al.gov.br/certidao/#/certidao-contribuinte"
           },
@@ -56,6 +64,10 @@
         "url": "https://www.sefaz.al.gov.br/protocolos",
         "tabelas": [],
         "links": [
+          {
+            "texto": "Acesso diretoNota Fiscal CidadÃ£Acesse o sistema da Nota Fiscal CidadÃ£ da SEFAZ-AL.Acessar",
+            "href": "https://nfa.sefaz.al.gov.br/nfa"
+          },
           {
             "texto": "CertidÃµes NegativasEmissÃ£o e validaÃ§Ã£o de certidÃµes negativas.",
             "href": "https://contribuinte.sefaz.al.gov.br/certidao/#/certidao-contribuinte"
