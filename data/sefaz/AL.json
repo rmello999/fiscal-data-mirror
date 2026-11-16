@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-11-09T16:13:04.241373+00:00",
-    "sha256": "cc2f96b6bb5b23e580c015ef971a997f6111544ac3fbe248e16dda503a07a011",
+    "generated_at": "2026-11-16T15:47:50.760882+00:00",
+    "sha256": "bc049b3f68145e86ddd04817538e8f13cc9ed9d8135b66f4868295c59fd37fd0",
     "source": {
       "aliquotas": "https://www.sefaz.al.gov.br/legislacao/icms",
       "mva_st": "https://www.sefaz.al.gov.br/substituicao-tributaria",
@@ -23,6 +23,10 @@
           {
             "texto": "Acesso diretoNota Fiscal CidadÃ£Acesse o sistema da Nota Fiscal CidadÃ£ da SEFAZ-AL.Acessar",
             "href": "https://nfa.sefaz.al.gov.br/nfa"
+          },
+          {
+            "texto": "InstitucionalConheÃ§a a SecretÃ¡ria de EstadoFormaÃ§Ã£o, trajetÃ³ria e atuaÃ§Ã£o na gestÃ£o pÃºblica.Ver perfil",
+            "href": "perfil-secretaria.html"
           },
           {
             "texto": "CertidÃµes NegativasEmissÃ£o e validaÃ§Ã£o de certidÃµes negativas.",
@@ -47,6 +51,10 @@
             "href": "https://nfa.sefaz.al.gov.br/nfa"
           },
           {
+            "texto": "InstitucionalConheÃ§a a SecretÃ¡ria de EstadoFormaÃ§Ã£o, trajetÃ³ria e atuaÃ§Ã£o na gestÃ£o pÃºblica.Ver perfil",
+            "href": "perfil-secretaria.html"
+          },
+          {
             "texto": "CertidÃµes NegativasEmissÃ£o e validaÃ§Ã£o de certidÃµes negativas.",
             "href": "https://contribuinte.sefaz.al.gov.br/certidao/#/certidao-contribuinte"
           },
@@ -67,6 +75,10 @@
           {
             "texto": "Acesso diretoNota Fiscal CidadÃ£Acesse o sistema da Nota Fiscal CidadÃ£ da SEFAZ-AL.Acessar",
             "href": "https://nfa.sefaz.al.gov.br/nfa"
+          },
+          {
+            "texto": "InstitucionalConheÃ§a a SecretÃ¡ria de EstadoFormaÃ§Ã£o, trajetÃ³ria e atuaÃ§Ã£o na gestÃ£o pÃºblica.Ver perfil",
+            "href": "perfil-secretaria.html"
           },
           {
             "texto": "CertidÃµes NegativasEmissÃ£o e validaÃ§Ã£o de certidÃµes negativas.",

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-11-09T16:34:07.619597+00:00",
-    "sha256": "8950eaf64c77fe37ce73157af58430dffd6ccd03d358482eb995b810e54c1eae",
+    "generated_at": "2026-11-16T16:13:09.075838+00:00",
+    "sha256": "b5b65e11bf1d09b28ce62dd184545451e973941d6a9e2f2c69c18e94b3d61264",
     "source": {
       "aliquotas": "https://www.sefaz.pb.gov.br/aliquotas",
       "mva_st": "https://www.sefaz.pb.gov.br/st",
@@ -21,18 +21,6 @@
         "tabelas": [],
         "links": [
           {
-            "texto": "DOE (Diário Oficial do Estado)",
-            "href": "https://auniao.pb.gov.br/doe"
-          },
-          {
-            "texto": "DOE (Diário Oficial do Estado)",
-            "href": "https://auniao.pb.gov.br/doe"
-          },
-          {
-            "texto": "DOE (Diário Oficial do Estado)",
-            "href": "https://auniao.pb.gov.br/doe"
-          },
-          {
             "texto": "Política de Privacidade",
             "href": "/privacidade"
           },
@@ -42,15 +30,27 @@
           },
           {
             "texto": "Governo do Estado da PB",
-            "href": "http://www.paraiba.pb.gov.br/"
+            "href": "/component/weblinks/?task=weblink.go&catid=6:bookmarks&id=1:governo-do-estado-da-pb&Itemid=367"
           },
           {
             "texto": "ESAT - Escola de Administração Tributária",
-            "href": "https://sesat1.sefaz.pb.gov.br/esat"
+            "href": "/component/weblinks/?task=weblink.go&catid=6:bookmarks&id=3:esat&Itemid=367"
           },
           {
             "texto": "GIA-ST",
             "href": "/info/declaracoes/gia-st"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
           }
         ]
       },
@@ -59,18 +59,6 @@
         "tabelas": [],
         "links": [
           {
-            "texto": "DOE (Diário Oficial do Estado)",
-            "href": "https://auniao.pb.gov.br/doe"
-          },
-          {
-            "texto": "DOE (Diário Oficial do Estado)",
-            "href": "https://auniao.pb.gov.br/doe"
-          },
-          {
-            "texto": "DOE (Diário Oficial do Estado)",
-            "href": "https://auniao.pb.gov.br/doe"
-          },
-          {
             "texto": "Política de Privacidade",
             "href": "/privacidade"
           },
@@ -80,15 +68,27 @@
           },
           {
             "texto": "Governo do Estado da PB",
-            "href": "http://www.paraiba.pb.gov.br/"
+            "href": "/component/weblinks/?task=weblink.go&catid=6:bookmarks&id=1:governo-do-estado-da-pb&Itemid=367"
           },
           {
             "texto": "ESAT - Escola de Administração Tributária",
-            "href": "https://sesat1.sefaz.pb.gov.br/esat"
+            "href": "/component/weblinks/?task=weblink.go&catid=6:bookmarks&id=3:esat&Itemid=367"
           },
           {
             "texto": "GIA-ST",
             "href": "/info/declaracoes/gia-st"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
           }
         ]
       },
@@ -97,18 +97,6 @@
         "tabelas": [],
         "links": [
           {
-            "texto": "DOE (Diário Oficial do Estado)",
-            "href": "https://auniao.pb.gov.br/doe"
-          },
-          {
-            "texto": "DOE (Diário Oficial do Estado)",
-            "href": "https://auniao.pb.gov.br/doe"
-          },
-          {
-            "texto": "DOE (Diário Oficial do Estado)",
-            "href": "https://auniao.pb.gov.br/doe"
-          },
-          {
             "texto": "Política de Privacidade",
             "href": "/privacidade"
           },
@@ -118,15 +106,27 @@
           },
           {
             "texto": "Governo do Estado da PB",
-            "href": "http://www.paraiba.pb.gov.br/"
+            "href": "/component/weblinks/?task=weblink.go&catid=6:bookmarks&id=1:governo-do-estado-da-pb&Itemid=367"
           },
           {
             "texto": "ESAT - Escola de Administração Tributária",
-            "href": "https://sesat1.sefaz.pb.gov.br/esat"
+            "href": "/component/weblinks/?task=weblink.go&catid=6:bookmarks&id=3:esat&Itemid=367"
           },
           {
             "texto": "GIA-ST",
             "href": "/info/declaracoes/gia-st"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
+          },
+          {
+            "texto": "DOE (Diário Oficial do Estado)",
+            "href": "https://auniao.pb.gov.br/doe"
           }
         ]
       }
